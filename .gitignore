@@ -1,0 +1,10 @@
+.DS_Store
+lectures/venv/
+.ipynb_checkpoints
+lectures/lecture02/data/
+.data/
+demo/tweet_classifier/data/
+demo/tweet_classifier/venv/
+demo/association_rule_mining/.venv/
+lectures/lecture07/data/hourly_taxi_data.npz
+demo/scraper/.venv/

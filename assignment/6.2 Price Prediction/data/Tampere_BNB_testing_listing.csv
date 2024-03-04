@@ -1,0 +1,361 @@
+Kaupunginosa,Huoneisto,Talot.,m2,Rv,Krs,Hissi,Kunto,Asunnon tyyppi,Pituusaste,Leveysaste
+Kaleva,"2h, k, rt, kph,...",kt,56.0,1956,3/4,on,tyyd.,Kaksi huonetta,23.80546185477141,61.49608300767742
+Keskusta,"2h,kk,s",kt,56.0,1908,,on,hyvä,Kaksi huonetta,24.06445252793605,61.468052183585165
+Hämeenpuisto,"4-5 h,avok,2xkp...",kt,184.0,1928,3/6,on,hyvä,Neljä huonetta tai enemmän,23.751402570474838,61.492285261763264
+Viinikka,"3h, k, kph, p",kt,65.0,1956,2/2,ei,hyvä,Kolme huonetta,23.78630123760901,61.48950191902868
+Leinola,4 h + k + s + w...,ok,112.0,1978,,ei,hyvä,Neljä huonetta tai enemmän,23.914911620001373,61.49036819137536
+Hervantajärvi,"4h, k, s",rt,89.0,2022,1/2,ei,,Neljä huonetta tai enemmän,23.871536613057295,61.440677842233406
+Tampella,"4h, k, kph, s, ...",kt,93.5,1997,6/6,on,hyvä,Neljä huonetta tai enemmän,23.761924856328125,61.50742743160913
+Takahuhti,"2h, kt",kt,52.0,2022,5/6,on,,Kaksi huonetta,23.858900565990776,61.50142937423442
+Tammela,"1h, k, kph, vh",kt,35.5,1920,4/4,ei,hyvä,Yksiö,23.78257266299481,61.49834101362469
+Vuores,"2h, k, s, p (las.)",kt,62.5,2014,5/5,on,hyvä,Kaksi huonetta,23.8098060427513,61.435749830100434
+Hervanta,3h+k+s,rt,74.0,1975,,ei,,Kolme huonetta,23.850328143581745,61.44992100472168
+Peltolammi,"4h,k",kt,83.0,1968,3/3,ei,,Neljä huonetta tai enemmän,23.755086358606857,61.44944281158733
+Tammela,"4, k, p",kt,77.5,1971,1/7,on,tyyd.,Neljä huonetta tai enemmän,23.78513778527796,61.49917519891067
+Keskusta,3h+k+p,kt,72.0,1962,7/8,on,,Kolme huonetta,24.06564571775513,61.46203126799847
+Hervanta,"3h, k, kph, s, ...",kt,78.5,1984,4/5,on,tyyd.,Kolme huonetta,23.8523132382628,61.44699134961419
+Kaarila,3h+k+sauna,rt,68.0,1974,1/1,ei,tyyd.,Kolme huonetta,23.675339934723517,61.49946409121858
+Hervanta,"4h, k, kph, s, ...",rt,103.0,1983,1/2,ei,,Neljä huonetta tai enemmän,23.849743625956386,61.45229514630027
+Pyynikki,"2h, k, kph/wc, et",kt,68.0,1928,2/4,ei,hyvä,Kaksi huonetta,23.726971111872903,61.49562442632581
+Lukonmäki,"2h,k,vh,erill.w...",rt,61.0,1979,1/1,ei,hyvä,Kaksi huonetta,23.850525396325462,61.465356599518
+Amuri,"1h,kk,kph,s,alk...",kt,34.0,1987,2/7,on,,Yksiö,23.74275594443796,61.49529156753665
+Halkoniemi,1h+kt+lasitettu...,kt,29.0,2019,6/6,on,hyvä,Yksiö,23.709008828257417,61.52456999665264
+Takahuhti,"2h, kt",kt,40.0,2022,3/6,on,,Kaksi huonetta,23.860065381659705,61.49463496586287
+Kaleva,"1h, kk, kh/wc",kt,29.0,1958,1/7,on,tyyd.,Yksiö,23.810547900070983,61.49841710615208
+Sorsapuisto,"2h, kk",kt,46.5,1961,2/7,on,hyvä,Kaksi huonetta,23.778524946968464,61.49851557525244
+Tammela,"3h,k,kph,wc,vh,...",kt,78.5,1970,2/7,on,hyvä,Kolme huonetta,23.781074548773223,61.50689652462371
+Pyynikki,1H+KT+P,kt,32.5,2022,4/4,on,hyvä,Yksiö,23.727474236349583,61.49128350364023
+Kissanmaa,"2h,kk,kph",kt,47.0,1961,3/4,on,tyyd.,Kaksi huonetta,23.82126627189676,61.505388387071584
+Tesoma,"4h, k, s, kph/w...",kt,88.0,2021,8/8,on,hyvä,Neljä huonetta tai enemmän,23.61136347612286,61.50676621209741
+Kaukajärvi,"2h, k, kph/wc",kt,43.0,1966,-1/3,ei,huono,Kaksi huonetta,23.907681970124333,61.47498192309091
+Vuores,"3h,kt,kph,vh,p",kt,57.5,2020,4/6,on,hyvä,Kolme huonetta,23.8038538032381,61.43560443759055
+Pappila,"5h,k,khh,kph/s,...",rt,128.0,2008,1/2,ei,hyvä,Neljä huonetta tai enemmän,23.866236153447865,61.49227164091202
+Ratina,1h + kk,kt,38.0,2011,4/5,on,,Yksiö,23.76236572555589,61.49422677802631
+Vehmainen,"3h, k, s",rt,73.0,2019,1/2,ei,hyvä,Kolme huonetta,23.915830801833213,61.47842928566642
+Hakametsä,"2h,k,kph,s,vh,wc",rt,61.0,1995,1/1,ei,hyvä,Kaksi huonetta,23.830589411557145,61.48846996888337
+Vehmainen,"2h, kt, kph/s/w...",rt,51.0,2019,1/1,on,hyvä,Kaksi huonetta,23.914208953288917,61.47777540249756
+Nekala,"3h,k+wc+kph/wc+...",rt,95.0,1928,-1/3,ei,hyvä,Kolme huonetta,23.79425762241864,61.48083523347712
+Kaakinmaa,"2h,k,kph",kt,56.0,1959,5/7,on,,Kaksi huonetta,23.747641127446176,61.49425616753579
+Veisu,"2h, k, s",kt,67.0,1988,1/1,ei,,Kaksi huonetta,23.80936222730012,61.473147008343375
+Saukonmäki,3h + k,kt,78.0,1967,4/7,on,hyvä,Kolme huonetta,23.79458258693004,61.50560154870462
+Lintuhytti,"2-3h, k, s, psh...",rt,71.0,2018,1/1,ei,hyvä,Kolme huonetta,23.88974434369285,61.445720645169146
+Härmälä,"1h, k",kt,41.5,1936,1/2,ei,hyvä,Yksiö,23.74096470021435,61.47146000900174
+Tammela,"1h,kk",kt,31.0,1980,6/6,on,,Yksiö,23.78381060200514,61.49666244460492
+Kaleva,2h+k+kph+2 x vh+p,kt,58.5,1954,2/4,ei,hyvä,Kaksi huonetta,23.8066540466746,61.50023363780041
+Ikuri,"2h, k, kph/wc",kt,57.0,1976,1/2,ei,tyyd.,Kaksi huonetta,23.596918130759008,61.51324900481426
+Hatanpää,"1h, kk, s",kt,36.0,2003,2/4,on,,Yksiö,23.759298138523505,61.47924725205706
+Haapalinna,2h+k+s+p,kt,57.0,1995,3/6,on,tyyd.,Kaksi huonetta,23.675856693609347,61.50724368332068
+Peltolammi,"2h, k, kph, vh,...",kt,53.5,1970,2/3,ei,hyvä,Kaksi huonetta,23.75460801145144,61.45530011476405
+Keskusta,"2h, kk, s, kph/...",kt,51.0,1982,6/6,on,tyyd.,Kaksi huonetta,24.067510161452905,61.46802619638986
+Kaleva,"2h, kt, kph, la...",kt,51.0,2020,2/6,on,hyvä,Kaksi huonetta,23.80988219108133,61.49611165822926
+Vuores,"2h, kt, s",rt,49.0,2023,1/1,ei,,Kaksi huonetta,23.806896567392503,61.43726201831687
+Niemenranta,"2h,kt",kt,37.0,2021,8/8,on,hyvä,Kaksi huonetta,23.696947848705072,61.51991559693055
+Hervanta,"4h, k, kph, s, ...",kt,93.0,1980,4/6,on,hyvä,Neljä huonetta tai enemmän,23.848644371948843,61.454129567638375
+Takahuhti,"3h, kk, kph, s",kt,61.0,2005,1/4,on,hyvä,Kolme huonetta,23.858650906625105,61.5001535099373
+Vuores,"2h,k,kph/s/wc,t...",rt,51.0,2020,1/1,ei,hyvä,Kaksi huonetta,23.80868185490412,61.43313177608784
+Rahola,"3h, k, kph, vh, p",kt,74.5,1965,3/6,on,hyvä,Kolme huonetta,23.633102131724037,61.496511102917495
+Hervantajärvi,"2h, kt",kt,53.0,2022,3/4,on,,Kaksi huonetta,23.87624132424509,61.435115309226006
+Tesoma,"3h, k, vh, kph/...",kt,60.0,2021,2/8,on,hyvä,Kolme huonetta,23.61206766372061,61.5059685458566
+Pappila,1h+kt+kph+alkov...,kt,28.5,2022,2/5,on,hyvä,Yksiö,23.86442069328048,61.49623184250401
+Olkahinen,"3h, k, s, khh",rt,90.0,1984,1/1,ei,hyvä,Kolme huonetta,23.939302197563062,61.52704057813556
+Linnainmaa,"3h, k, s",rt,72.0,1989,1/1,ei,,Kolme huonetta,23.88924379284365,61.49453337756586
+Tesoma,2h+k+kph+lasit.p,kt,41.0,2018,4/8,on,hyvä,Kaksi huonetta,23.61197879017749,61.506857314919394
+Hervanta,"1h, kt, alkov, ...",kt,34.5,1983,3/7,on,hyvä,Yksiö,23.8512789816866,61.450145022785264
+Onkiniemi,"1h,kk",kt,30.0,1978,6/8,on,,Yksiö,23.73466452423399,61.50155112794828
+Tammela,"2h,kt,kph/wc,er...",kt,42.0,1961,4/7,on,,Kaksi huonetta,23.77967726605521,61.50574343163481
+Hatanpää,"2h, kt",kt,44.0,2022,4/6,on,,Kaksi huonetta,23.757039795309403,61.48229380547733
+Hervanta,Tupakeittiö...,kt,33.0,2004,1/5,on,,Kaksi huonetta,23.853179209919944,61.44947244335442
+Ratina,"2h, k",kt,58.0,2011,4/5,on,,Kaksi huonetta,23.764946222073892,61.492339686292524
+Pohtola,2h+kk+et+kph,kt,48.0,1972,3/3,ei,hyvä,Kaksi huonetta,23.67308802641954,61.53425532761654
+Vehmainen,"3h, k, työ...",rt,85.0,2019,1/2,ei,hyvä,Kolme huonetta,23.91578264518852,61.47930903853417
+Ruotula,"2h,k,kph,las.pa...",kt,39.0,1962,5/5,on,hyvä,Kaksi huonetta,23.843322793957707,61.49977535689767
+Vuores,4h+k+s,kt,108.0,2021,1/2,ei,,Neljä huonetta tai enemmän,23.8087395515971,61.4319172653752
+Kaleva,"1h, kk, kph, la...",kt,35.0,2017,5/6,on,hyvä,Yksiö,23.80590831261491,61.49805362888604
+Hallila,"h,kk,s",kt,36.0,1991,4/6,on,,Yksiö,23.83324388436369,61.46486392141469
+Atala,"2h, k, s",rt,65.5,1985,1/1,ei,tyyd.,Kaksi huonetta,23.90958312824652,61.49981381491256
+Atala,3h+k+s,rt,84.0,2000,1/1,ei,hyvä,Kolme huonetta,23.906294743259583,61.50240461245332
+Linnainmaa,"2h,k,erill. wc,...",kt,62.0,1989,,on,,Kaksi huonetta,23.89279104495681,61.49331104052035
+Hervantajärvi,"2h, kt, s",kt,46.0,2023,5/6,on,,Kaksi huonetta,23.871802929012848,61.43700543461488
+Pyynikki,3H+KT+KATTOTERASSI,kt,86.5,2022,3/4,on,hyvä,Kolme huonetta,23.72757627836304,61.492105582282576
+Pyynikki,3H+KT+2PARVEKETTA,kt,71.5,2022,3/4,on,hyvä,Kolme huonetta,23.727096958112632,61.49398187357224
+Hervantajärvi,2-3H+KT,kt,40.5,2023,4/5,on,hyvä,Kaksi huonetta,23.87492888937564,61.435746620794745
+Vuores,"2h, kt, s",rt,49.0,2023,1/1,ei,,Kaksi huonetta,23.80330402472416,61.43636524919994
+Hervanta,"3h, k, s, p (las.)",kt,71.0,1988,1/5,on,tyyd.,Kolme huonetta,23.851790801221394,61.4512906336362
+Janka,"3h,k,s",kt,78.0,1991,,ei,,Kolme huonetta,23.84718554245199,61.49227272410085
+Hervanta,"1h, kk, s, ph, ...",kt,35.5,1988,3/8,on,hyvä,Yksiö,23.852035256597173,61.44764453425184
+Armonkallio,"2h, k, kph",kt,51.5,1965,2/6,on,hyvä,Kaksi huonetta,23.77274216010087,61.50755917504333
+Hervanta,"3h, k, kph, vh,...",kt,75.5,1981,3/3,ei,hyvä,Kolme huonetta,23.851151930379466,61.4474722055568
+Takahuhti,2h+k+kh+p,kt,61.0,1972,5/7,on,hyvä,Kaksi huonetta,23.864619106367247,61.49653990910626
+Tasanne,"3h, k, kph/s, w...",rt,79.0,1982,1/1,ei,hyvä,Kolme huonetta,23.92422290349767,61.51340183104456
+Keskusta,3h+k+kph+s+eril...,kt,75.0,1984,4/6,on,tyyd.,Kolme huonetta,24.06802110249081,61.46412694959571
+Muotiala,"3h,kt,kph,s,ter...",kt,56.5,2019,1/2,ei,hyvä,Kolme huonetta,23.82206342837086,61.47320260157807
+Keskusta,2 h + kk + parveke,kt,55.0,1962,2/7,on,hyvä,Kaksi huonetta,24.06769674260268,61.460773760372135
+Hervanta,"3h,k,kph,vh,las...",kt,77.5,1981,4/8,on,hyvä,Kolme huonetta,23.851069292897854,61.45051870122725
+Keskusta,"1h, kk, kh/wc",kt,24.0,1957,6/7,on,tyyd.,Yksiö,24.068911937584957,61.46611289248051
+Hervantajärvi,"4h, k, s",kt,77.0,2023,5/6,on,,Neljä huonetta tai enemmän,23.87655486381178,61.438409108582825
+Tammela,2h+k,kt,58.0,1980,6/6,on,tyyd.,Kaksi huonetta,23.781235537202807,61.50148503393784
+Linnainmaa,"1h, k, kph, ran...",kt,27.5,2018,7/7,on,hyvä,Yksiö,23.891031051019013,61.494327729457815
+Amuri,"2h, k, kph, vh,...",kt,56.5,1970,5/8,on,hyvä,Kaksi huonetta,23.738029144287083,61.5005829587908
+Kaleva,"1h,kk,et,kph",kt,32.0,1956,2/8,on,,Yksiö,23.806031594497444,61.49536719318716
+Hatanpää,"2h, kt",kt,37.0,2022,3/6,on,,Kaksi huonetta,23.75867557602528,61.48088269009137
+Hervanta,"2h, k, p",kt,57.0,1976,4/8,on,hyvä,Kaksi huonetta,23.851800616734543,61.45212432852725
+Kaleva,2h+k+kph/wc+p,kt,53.1,1958,2/6,on,tyyd.,Kaksi huonetta,23.80526175828536,61.49513051523289
+Tammela,"2h, kt, kph/s, ...",kt,66.5,2022,4/8,on,hyvä,Kaksi huonetta,23.78033727527978,61.49991666941207
+Tesoma,4h+k+kh+wc+p,kt,93.6,1968,1/3,ei,hyvä,Neljä huonetta tai enemmän,23.611567798074205,61.50748631441114
+Rantaperkiö,"3-4h, k, kph, vh",kt,80.0,1961,2/3,ei,hyvä,Kolme huonetta,23.754005717018966,61.47610235941299
+Korkinmäki,"3h, k, kph/wc, ...",rt,77.5,2002,2/2,ei,tyyd.,Kolme huonetta,23.831070603340624,61.470742720252886
+Keskusta,"3h, kt, kph, vh",kt,67.5,1963,7/8,on,hyvä,Kolme huonetta,24.06828698040188,61.46731697988051
+Härmälänranta,"3h,k,s,psh,lasi...",kt,77.0,2011,1/5,on,hyvä,Kolme huonetta,23.72896133789729,61.47217030384841
+Hyhky,3h+k+kph/wc+s+v...,kt,64.0,1983,1/2,ei,hyvä,Kolme huonetta,23.688867559044592,61.50674656538267
+Järvensivu,"3h,k,s,kph+lasi...",kt,67.0,2006,5/5,on,hyvä,Kolme huonetta,23.805104571520477,61.48661824109919
+Nekala,1h+kk+kph,kt,27.0,1963,3/3,ei,hyvä,Yksiö,23.79493736635298,61.48371816723223
+Niemenranta,"3h, k, s",rt,74.0,2023,1/2,ei,,Kolme huonetta,23.68954527248293,61.51881815997656
+Vuores,"5h,k,s,2xaskart...",ok,244.0,2012,,ei,hyvä,Neljä huonetta tai enemmän,23.812849592964078,61.43241750275718
+Kaukajärvi,"3h,k,vh,wc,kph,...",kt,76.0,2012,6/13,on,hyvä,Kolme huonetta,23.902601980666045,61.47929113521788
+Amuri,2h+k,kt,58.0,1970,2/7,on,tyyd.,Kaksi huonetta,23.74029031381873,61.50305854166777
+Tammela,"2h, k, rt, kph,...",kt,48.5,1968,4/7,on,hyvä,Kaksi huonetta,23.779791393450587,61.50030597148329
+Kissanmaa,"2h,kk",kt,44.0,1959,1/4,ei,tyyd.,Kaksi huonetta,23.820525346332417,61.502932687237525
+Vuores,"2h, kt, kph/wc,...",kt,48.0,2017,4/6,on,hyvä,Kaksi huonetta,23.809619788631977,61.44021250229635
+Pyynikki,1h+kt,kt,26.0,1935,,ei,hyvä,Yksiö,23.72824062647785,61.49293819382883
+33410,"3h,kk,s",kt,60.0,2013,5/8,on,hyvä,Kolme huonetta,23.706074205815646,61.52858690644408
+Hervanta,"3h,k,kph/wc,s,v...",rt,67.5,1981,1/1,ei,hyvä,Kolme huonetta,23.85306465725237,61.44915298838442
+Annala,"2h, kk, s",rt,42.5,1990,1/1,ei,tyyd.,Kaksi huonetta,23.897083097745217,61.46192730061881
+Peltolammi,2h+k,kt,54.0,1969,3/3,ei,,Kaksi huonetta,23.75585622633654,61.45375840520787
+Härmälänranta,Tupakeittiö...,kt,31.0,2016,5/5,on,hyvä,Yksiö,23.723943856840663,61.47355632334232
+Niemenranta,"3h,k,s,wc,p",kt,63.0,2019,1/7,on,hyvä,Kolme huonetta,23.69521281827527,61.51528316452389
+Kaleva,"2h, kk, kph/wc,...",kt,51.5,1962,1/6,on,hyvä,Kaksi huonetta,23.80625021311396,61.4911540901176
+Pyynikki,"3h,k,kph/wc,2vh...",kt,79.0,1967,6/6,on,,Kolme huonetta,23.72704656987224,61.49700693475597
+Atala,"2h, kk, s, kph/...",rt,48.0,1988,1/1,ei,,Kaksi huonetta,23.908437720509323,61.50273004392615
+Nekala,"2h, k, vh, s, w...",kt,64.5,1985,3/3,ei,hyvä,Kaksi huonetta,23.792049860519057,61.48524360133808
+Härmälänranta,"2h,k,kph,s,p",kt,58.5,2002,3/5,on,hyvä,Kaksi huonetta,23.72482381118948,61.47361205009612
+Keskusta,"2h,kk,s",kt,62.0,2006,5/7,on,,Kaksi huonetta,24.06842649354585,61.46259922855213
+Haapalinna,"1h, kk, s",kt,37.5,1989,4/4,on,hyvä,Yksiö,23.678242843047503,61.50418211067258
+Atala,"2h,k,s",rt,63.0,1985,1/1,ei,hyvä,Kaksi huonetta,23.910210347065814,61.50735552671172
+Armonkallio,"1h,kk,kph,vh",kt,26.0,1975,,ei,,Yksiö,23.76981165605561,61.50234303923169
+Rautaharkko,"2h, tupak, vh, ...",kt,58.0,1953,,ei,hyvä,Kaksi huonetta,23.771857336458865,61.47391914552079
+Amuri,"2h, kt, lasitet...",kt,37.0,2023,4/9,on,,Kaksi huonetta,23.74184862877309,61.4998088539562
+Rantaperkiö,"3h,k,kph,et,p",kt,67.0,1969,1/3,ei,,Kolme huonetta,23.75350048023753,61.47018687226202
+Peltolammi,"3h, k, kph, vh ...",kt,68.0,1968,1/3,ei,tyyd.,Kolme huonetta,23.752605267588663,61.44715582319817
+Hatanpää,"1h, kt, alk",kt,33.0,2022,2/5,on,,Yksiö,23.75742999050871,61.48284863175054
+Hervantajärvi,2H+KT,kt,38.5,2023,5/5,on,hyvä,Kaksi huonetta,23.871070378806262,61.436866327742905
+Tammela,"2h,kk,lasitettu...",kt,42.0,2016,4/8,on,hyvä,Kaksi huonetta,23.78018695093412,61.4986471338453
+Haukiluoma,3h+k+kh+s+wc,rt,80.0,1986,1/1,ei,hyvä,Kolme huonetta,23.60694181155944,61.5150048883851
+Epilä,"3h, k, rt, s, p...",rt,84.0,1982,-1/2,ei,hyvä,Kolme huonetta,23.67204596423577,61.506837198890445
+Ryydynpohja,"3-4h,k,s,kph,er...",rt,85.0,1983,1/2,ei,,Neljä huonetta tai enemmän,23.655669037399047,61.52529791899072
+Lentävänniemi,"1h,kt,sauna",kt,39.0,1978,1/1,ei,,Yksiö,23.706279279425743,61.53291351583341
+Tammela,4h+k+s,kt,87.0,1984,3/7,on,hyvä,Neljä huonetta tai enemmän,23.779150758435453,61.50575695949588
+Ratina,"4h,k,s",kt,98.0,2011,1/1,on,,Neljä huonetta tai enemmän,23.76403504848153,61.49017717052966
+Tasanne,"3h, k, kph/s, w...",rt,79.0,1982,1/1,ei,hyvä,Kolme huonetta,23.92866934465707,61.519546516973634
+Keskusta,"1h, k, kph/wc",kt,38.9,1909,3/3,ei,hyvä,Yksiö,24.068241166231395,61.46515633259519
+Hervantajärvi,"3-4h, tupakeitt...",kt,74.0,2023,5/5,on,hyvä,Kolme huonetta,23.87334687687569,61.44212911312527
+Kalkku,"3h, k, kph, s, ...",kt,79.0,1993,2/3,on,hyvä,Kolme huonetta,23.58593476330164,61.49903737331265
+Tampella,"1h,tk,kph,rp",kt,28.0,2016,4/7,on,,Yksiö,23.765165523908333,61.50151051602028
+Kalkku,2h+k+et+kph/wc+...,kt,55.0,1968,,ei,hyvä,Kaksi huonetta,23.58522734603156,61.498000115882384
+Peltolammi,"3h, k, kph/wc, ...",kt,68.0,1969,1/3,ei,hyvä,Kolme huonetta,23.75062451001676,61.45364952788668
+Multisilta,3h+k,kt,69.0,1976,2/3,ei,hyvä,Kolme huonetta,23.749573223024296,61.43930593789456
+Hatanpää,"1h, kt, alk",kt,33.0,2022,5/5,on,,Yksiö,23.76071760321739,61.485415894876766
+Multisilta,1h+kt+kph+huone...,kt,24.0,2020,6/8,on,hyvä,Yksiö,23.749160348424876,61.44100460768845
+Messukylä,"3h, k, s, kph, ...",rt,78.5,1974,1/2,ei,tyyd.,Kolme huonetta,23.8543206595217,61.48473350913749
+Leinola,5h+k+sauna+kph+...,ok,124.0,1982,,ei,,Neljä huonetta tai enemmän,23.913013964909062,61.48702729473731
+Kaleva,1h+kt+lasitettu...,kt,27.0,2022,32/8,on,hyvä,Yksiö,23.80512711342767,61.49451592833873
+Keskusta,"1h, alkovi, kk,...",kt,37.0,1963,3/7,on,hyvä,Yksiö,24.063250216833215,61.46777701025412
+Annala,"2h, kk, kph, vh...",kt,49.5,1975,5/7,on,hyvä,Kaksi huonetta,23.9008194967545,61.4615001549339
+Annala,"2h,k,las.parv.",kt,58.0,1973,3/3,ei,,Kaksi huonetta,23.898443296119336,61.46702161164963
+Hatanpää,"2h, kt",kt,37.0,2022,4/6,on,,Kaksi huonetta,23.757170269976733,61.482961191836736
+Linnainmaa,"2h, k, rt, s, p...",kt,59.0,2001,3/5,on,hyvä,Kaksi huonetta,23.89283697261899,61.48949193888641
+Keskusta,"2h,k,s",kt,60.0,1987,2/7,on,,Kaksi huonetta,24.06260448865936,61.459707421602864
+Linnainmaa,"3h, avok, erill...",kt,65.0,2019,7/8,on,hyvä,Kolme huonetta,23.893773119926347,61.49478655311622
+Lentävänniemi,"2h,k,s",kt,55.5,2013,5/8,on,hyvä,Kaksi huonetta,23.703220349778103,61.535671791113415
+Ratina,2h+k,kt,58.0,2011,5/5,on,,Kaksi huonetta,23.770082597659,61.49289730431542
+Risso,"1h, kt, kph, p",kt,28.0,2015,1/3,on,hyvä,Yksiö,23.93135370336785,61.49805556360448
+Lamminpää,4h+k+tk+vh+wc+e...,rt,92.0,1970,1/2,ei,,Neljä huonetta tai enemmän,23.62992929669609,61.52290440449392
+Kaukajärvi,2h+tupak/olohuo...,kt,57.0,2007,2/5,on,hyvä,Kolme huonetta,23.90655613477996,61.47473039267584
+Atala,"2h,k,kph/wc,s,v...",rt,63.0,1990,1/1,ei,,Kaksi huonetta,23.90584969861546,61.49710763932037
+Lielahti,3h+k+kph/wc+eri...,kt,72.0,2019,2/8,on,hyvä,Kolme huonetta,23.668735409658076,61.518693045407055
+Käpylä,"2h, k, s",kt,88.5,1939,2/5,on,hyvä,Kaksi huonetta,23.783562336020413,61.51546773883458
+Linnainmaa,4h+k+wc+khh/kph...,rt,91.0,1995,1/1,ei,hyvä,Neljä huonetta tai enemmän,23.89170394423272,61.49241241019652
+Hervanta,"2h,k,s,lasit.p",kt,49.0,2013,15/16,on,hyvä,Kaksi huonetta,23.855726887043907,61.44975128647388
+Multisilta,3h+ k,kt,72.5,1972,3/5,on,tyyd.,Kolme huonetta,23.755135180742744,61.43807266068892
+Kaleva,"2h, k, kph, vh,...",kt,60.4,1958,7/7,on,hyvä,Kaksi huonetta,23.8095218972571,61.50054805608206
+Keskusta,"1h,kk",kt,25.0,1966,2/7,on,hyvä,Yksiö,24.063631998958893,61.46562670795095
+Petsamo,3 h + k + kph +...,rt,100.0,1928,,ei,tyyd.,Kolme huonetta,23.797312181417315,61.50831971613308
+Annala,"2h, k, s, psh, ...",rt,63.0,1991,1/1,ei,hyvä,Kaksi huonetta,23.894222315101487,61.46244832399579
+Lentävänniemi,"3h,k,kph",kt,80.0,1974,2/3,ei,,Kolme huonetta,23.704231146030903,61.529635108401465
+Annala,"3h,k,kph, s, er...",rt,80.0,1982,1/2,ei,tyyd.,Kolme huonetta,23.89373931594906,61.46224020017305
+Tesoma,"3h, k, vh, kph/...",kt,60.0,2021,2/8,on,hyvä,Kolme huonetta,23.61103741959872,61.5054776620913
+Tasanne,2h+k+s,rt,65.0,1985,1/1,ei,hyvä,Kaksi huonetta,23.92204630808844,61.51779018734854
+Hakametsä,"3h,k,s",rt,78.0,2019,1/2,ei,hyvä,Kolme huonetta,23.83509546335928,61.487620113894494
+Kaleva,1h+kt+kph+lasit...,kt,27.0,2022,10/13,ei,hyvä,Yksiö,23.80466302304787,61.49981802510108
+Holvasti,"3h,k,s",kt,63.0,2003,3/4,on,,Kolme huonetta,23.93338250707173,61.486938369681454
+Tammela,"1h, kk, kph/wc,...",kt,33.5,1972,2/7,on,hyvä,Yksiö,23.78237763608817,61.50200698786725
+Tammela,"1h,kt,kph/wc, e...",kt,31.0,1961,5/7,on,hyvä,Yksiö,23.78268923927668,61.50130701793122
+Tesoma,3h+k+p,kt,74.1,1966,2/3,ei,,Kolme huonetta,23.612422021133607,61.505906684683055
+Janka,"2h, k, kph / wc...",kt,53.0,2005,3/3,on,hyvä,Kaksi huonetta,23.84561856665616,61.493494774960034
+Amuri,"3h, kt, s, lasi...",kt,54.0,2023,7/9,on,,Kolme huonetta,23.74311131394721,61.49770531809127
+Hervantajärvi,"2h, kt",kt,41.0,2022,3/4,on,,Kaksi huonetta,23.869238665425197,61.44393314230006
+Kaleva,"2h,k,kph,vh",kt,53.0,1956,2/6,on,hyvä,Kaksi huonetta,23.80457789164483,61.49581973946503
+Tammela,"2h, kk, parv",kt,48.5,1968,6/6,on,tyyd.,Kaksi huonetta,23.78172712250134,61.49714337236953
+Tammela,"Oh, avokeitti&#...",kt,42.0,1939,4/4,ei,hyvä,Kaksi huonetta,23.77951373835895,61.50068655736906
+Rantaperkiö,"4h,k,p",kt,76.0,1971,,ei,,Neljä huonetta tai enemmän,23.75206273286645,61.47374881872484
+Ikuri,"3h, k, s",rt,70.0,2022,1/1,ei,hyvä,Kolme huonetta,23.591924655541565,61.51264753545003
+Vuores,5h+k+3wc+2kph+k...,ok,140.0,2017,,ei,hyvä,Neljä huonetta tai enemmän,23.803302017058037,61.43246874521871
+Janka,3h+k+s+p,kt,66.0,2005,1/3,on,hyvä,Kolme huonetta,23.844894039727237,61.49454432588501
+Järvensivu,2h+k+kph/wc+et+vh,kt,56.0,1962,3/3,ei,hyvä,Kaksi huonetta,23.803619459581743,61.48929009077028
+Keskusta,"2h, k, kph, las...",kt,55.0,1962,6/7,on,hyvä,Kaksi huonetta,24.06618616789372,61.46790631888632
+Reuharinniemi,"3h, k, rt, khh,...",rt,81.5,1980,1/1,ei,hyvä,Kolme huonetta,23.7156628908916,61.53094801211054
+Hervantajärvi,"2h, kt, s",kt,46.0,2023,6/6,on,,Kaksi huonetta,23.87473309091722,61.43776528580155
+Hervanta,"2h,k,s,las.parv.",kt,62.0,1987,3/5,on,hyvä,Kaksi huonetta,23.849143766754118,61.450564657309975
+Kaarila,3h+k+s,rt,72.0,1986,2/2,ei,hyvä,Kolme huonetta,23.6726678791432,61.501628058669446
+Hallila,4h+k,rt,94.0,1992,,ei,,Neljä huonetta tai enemmän,23.82988109986259,61.46449375131326
+Hatanpää,"1h, kt, alk",kt,33.0,2022,1/5,on,,Yksiö,23.75819543113116,61.48421362406957
+Lentävänniemi,"3h,kk,s",kt,65.0,2013,4/8,on,hyvä,Kolme huonetta,23.702105129276383,61.53011980428087
+Tesoma,"2h, kk, kph, vh",kt,54.5,1969,6/7,ei,hyvä,Kaksi huonetta,23.613568524145933,61.50477012572191
+Linnainmaa,"1h, kt, kph, rp",kt,27.5,2018,1/7,on,hyvä,Yksiö,23.89510372394273,61.49391992442612
+Lentävänniemi,3h+kt+s,kt,72.0,2013,3/8,on,hyvä,Kolme huonetta,23.70602174613692,61.532267864549965
+Hervanta,3h+k+lasitettu ...,kt,75.0,1975,7/8,on,,Kolme huonetta,23.856884069282955,61.45210948942554
+Kalkunvuori,"3h, k, s/ph, er...",rt,85.0,2008,1/2,ei,hyvä,Kolme huonetta,23.59307210146801,61.49430222575339
+Härmälä,1h+k,kt,40.0,1938,1/2,ei,tyyd.,Yksiö,23.73608461504841,61.47396233550189
+Kaleva,"1h, k, kph, p",kt,47.0,1952,7/9,on,hyvä,Yksiö,23.80812076802971,61.501175498440944
+Hervantajärvi,"4h, k, s",rt,89.0,2022,1/2,ei,,Neljä huonetta tai enemmän,23.8743949312272,61.44039974163875
+Tahmela,"2h, kk, kph",kt,46.5,1962,2/2,ei,hyvä,Kaksi huonetta,23.708334397135516,61.50012734118332
+Härmälänranta,"2h,k,s,p",kt,58.0,2011,2/5,on,,Kaksi huonetta,23.724777466334285,61.47010307826266
+Hatanpää,3h+kt+s+kph+iso...,kt,51.0,2022,2/6,on,hyvä,Kolme huonetta,23.75706968340947,61.4823795993672
+Tammela,"4h,k,s,kh,wc,vh,p",kt,89.0,1982,5/7,on,,Neljä huonetta tai enemmän,23.775699361152768,61.500349497071646
+Hervanta,"3h, k, vh, kph/...",kt,74.5,1976,4/9,on,hyvä,Kolme huonetta,23.856055815995383,61.44908159201764
+Pyynikki,"4h, kt, rt, s, ...",kt,121.0,2020,2/4,on,hyvä,Neljä huonetta tai enemmän,23.724530216308207,61.4964205090768
+Hyhky,"2h, k, p",kt,50.0,1964,5/6,on,hyvä,Kaksi huonetta,23.69102202967661,61.502776392161
+Hirvikallio,"3h, k, s, kph, ...",rt,84.0,2011,1/2,ei,hyvä,Kolme huonetta,23.90923144556264,61.461893542921615
+Pappila,"4h, k, kph, s, ...",rt,119.0,1971,1/2,ei,tyyd.,Neljä huonetta tai enemmän,23.86370660225768,61.494967594477686
+Vuores,"4-5h, k, s, var...",ok,110.0,2018,1/2,ei,,Neljä huonetta tai enemmän,23.810491698779146,61.43441438588653
+Lapinniemi,2h+k+kph+s+wc+e...,kt,63.0,2004,6/9,on,hyvä,Kaksi huonetta,23.77300191737148,61.51195337491236
+Hervanta,"2h, k, s, vh, p",kt,61.0,1988,5/6,on,tyyd.,Kaksi huonetta,23.853841252663152,61.447578173807976
+Haapalinna,1 h+tk+s+p,kt,41.5,1995,3/6,on,tyyd.,Kaksi huonetta,23.67884434549574,61.50492222649111
+Kaleva,3h+k+s,kt,63.0,2011,1/8,on,hyvä,Kolme huonetta,23.802421217388947,61.50039972562934
+Lukonmäki,"3h, k, s",rt,76.0,1979,1/1,ei,tyyd.,Kolme huonetta,23.85139243706783,61.4654668173164
+Kaleva,"3h, kk, kph/wc",kt,53.5,1954,1/6,on,hyvä,Kolme huonetta,23.808598158811503,61.50011474149024
+Koivistonkylä,2h+k+kph+vh,kt,53.2,1961,4/4,ei,hyvä,Kaksi huonetta,23.79414262481356,61.47080653192968
+Kaleva,2h+k+wc/kph+p,kt,63.1,1952,3/9,on,hyvä,Kaksi huonetta,23.80387503482206,61.49808337944808
+Niemenranta,"2h, k, s, lasit...",kt,54.5,2014,5/8,on,hyvä,Kaksi huonetta,23.692927677846885,61.52011517589429
+Härmälänranta,3h+k+s+ter+var(...,kt,96.5,2013,5/6,on,hyvä,Kolme huonetta,23.72572609545591,61.47144488546228
+Kaukajärvi,"3h,k,p.",kt,72.0,1968,3/3,ei,hyvä,Kolme huonetta,23.905102367078445,61.47940209092035
+Hervanta,"2h,kt,s,p",kt,44.0,2015,2/5,on,,Kaksi huonetta,23.850144648522207,61.44749656577128
+Ranta-tampella,"3h, k, s/ph, vh, p",kt,65.5,2018,10/14,on,hyvä,Kolme huonetta,23.75932826938202,61.50424097886384
+Ristinarkku,"2h, kt, kph",kt,46.0,2019,3/7,on,hyvä,Kaksi huonetta,23.85755777375657,61.4894405447106
+Kaleva,"2h,k,kph,vh,p",kt,51.0,1957,,on,hyvä,Kaksi huonetta,23.809489068394814,61.4972294184141
+Tampella,"2h, kk s",kt,55.0,2007,6/6,on,,Kaksi huonetta,23.75952590218384,61.5067588799266
+Ratina,"2h, k",kt,50.0,2011,2/5,on,,Kaksi huonetta,23.767142609346017,61.491170410872606
+Pispala,"1h,kk,alkovi,pa...",kt,32.0,1995,2/2,ei,,Yksiö,23.708039182035925,61.50350187072798
+Vuores,"4-5h, kt, 2x kp...",rt,102.0,2022,1/3,ei,hyvä,Neljä huonetta tai enemmän,23.805289738148645,61.43623399023858
+Kalkku,2h+k+s,kt,48.0,1988,3/3,ei,hyvä,Kaksi huonetta,23.586221114704703,61.49583364846256
+Koivistonkylä,2h+k+p,kt,57.0,1975,,ei,,Kaksi huonetta,23.79411027898811,61.47241896119234
+Härmälänranta,2h+kt+s+kph+kat...,kt,43.5,2022,1/2,ei,hyvä,Kaksi huonetta,23.72643591750999,61.47617907627821
+Ratina,2h+k+lasitettu ...,kt,50.0,2011,1/5,on,,Kaksi huonetta,23.76885523397266,61.49261613543104
+Hatanpää,"2h, kt",kt,39.0,2022,3/5,on,,Kaksi huonetta,23.75658773464337,61.48182002680144
+Pyynikki,3H+KT+S+KATTOTE...,kt,109.5,2022,4/4,on,hyvä,Kolme huonetta,23.726407529418395,61.49201488348031
+Pispala,"6h,k,khh,kph,s,...",ok,127.0,1936,,ei,,Neljä huonetta tai enemmän,23.712860239580884,61.504177830194536
+Vuores,"1h, kt, kph/wc,...",kt,28.5,2016,1/5,on,hyvä,Yksiö,23.80664299510456,61.434006322356645
+Hervantajärvi,"4h, k, s",rt,89.0,2022,1/2,ei,,Neljä huonetta tai enemmän,23.873103723356383,61.43799146545111
+Amuri,"1h,kk,kph,las.p",kt,34.0,1974,3/3,on,,Yksiö,23.73798945575781,61.49676208942367
+Uusikylä,"4h,k,s,parv.",rt,89.0,1995,1/2,ei,,Neljä huonetta tai enemmän,23.825961523680515,61.49949392853748
+Hervantajärvi,"2h, kt",kt,48.0,2022,3/4,on,,Kaksi huonetta,23.870620437602444,61.43809488875795
+Hervanta,1h+tk+s+las.p,kt,40.0,1990,4/5,on,,Yksiö,23.847476133185207,61.45290475176719
+Tammela,2h+kk+s,kt,44.0,1985,2/6,on,hyvä,Kaksi huonetta,23.78372450820839,61.50167092717169
+Tammela,2h+k+s,kt,57.0,1990,2/5,on,tyyd.,Kaksi huonetta,23.782232477155816,61.50536123440675
+Linnainmaa,"2h, k, s, ph, l...",kt,63.0,1995,5/5,on,hyvä,Kaksi huonetta,23.89329322168457,61.49158033712758
+Multisilta,"3h, k, wc, vh, ...",kt,73.0,1972,3/5,on,,Kolme huonetta,23.74880532348015,61.43549142269032
+Rahola,3 H+K,kt,77.0,1972,1/3,ei,huono,Kolme huonetta,23.63485991701233,61.49853986953948
+Pispala,"2h,k,kph",rt,40.0,1902,1/1,ei,tyyd.,Kaksi huonetta,23.712304612609326,61.503682414150745
+Linnainmaa,"2h,kk,s",kt,47.0,1995,1/6,on,tyyd.,Kaksi huonetta,23.89124927090967,61.48997481148055
+Ryydynpohja,"2h, k, vh, kph/...",rt,64.0,1979,1/1,ei,hyvä,Kaksi huonetta,23.654892788629976,61.52717495798435
+Tammela,3h+k+s,kt,75.5,2016,6/8,on,hyvä,Kolme huonetta,23.780980694328967,61.50381916754883
+Amuri,2h+k+s+p,kt,57.5,1986,1/6,on,tyyd.,Kaksi huonetta,23.740870069795267,61.49895934411227
+Viiala,4h+k+s,ok,70.0,1954,1/2,ei,tyyd.,Neljä huonetta tai enemmän,23.855341394205094,61.47760376321843
+Haapalinna,2h + kk + s,kt,52.0,2003,3/6,on,hyvä,Kaksi huonetta,23.67701884707439,61.50897275838693
+Hatanpää,"2h, kt",kt,48.0,2022,1/6,on,,Kaksi huonetta,23.758243028805527,61.48305675487303
+Hervanta,"3h, k, p, s",kt,75.5,1983,2/6,on,tyyd.,Kolme huonetta,23.85313125250769,61.45618900924831
+Vuores,"1h, k",kt,28.0,2018,3/4,on,hyvä,Yksiö,23.80581745927447,61.43124307977391
+Kaleva,"1h,k,kph,vh",kt,41.0,1959,3/3,ei,hyvä,Yksiö,23.805767540675365,61.49819469045891
+Janka,"2h, k, s, wc, vh",kt,63.0,1993,3/4,on,hyvä,Kaksi huonetta,23.84637713683388,61.4854739603462
+Annala,"2h, kk, s, ph, ...",kt,45.0,1993,3/4,on,hyvä,Kaksi huonetta,23.89743398788537,61.461451050176464
+Lentävänniemi,1h+kt,kt,26.5,2018,4/8,on,hyvä,Yksiö,23.70753630630108,61.5285121978652
+Härmälä,2h+kt+alkovi+kp...,kt,42.0,1937,1/3,ei,,Kaksi huonetta,23.740321229157264,61.46833889867965
+Iidesranta,"4h, k, s",kt,85.0,1996,4/6,on,hyvä,Neljä huonetta tai enemmän,23.788733157614537,61.49186017178263
+Ruotula,"5h,kt,s,kph,khh...",rt,119.0,2021,-1/2,ei,hyvä,Neljä huonetta tai enemmän,23.841999173096173,61.50341240865722
+Armonkallio,"2h, k, kph, khh",kt,55.0,1940,3/6,on,hyvä,Kaksi huonetta,23.771960020044396,61.50503360986171
+Hatanpää,"2h, kt",kt,38.0,2022,4/6,on,,Kaksi huonetta,23.7520337514984,61.48432722043367
+Tohloppi,"3h,k,s,kph,wc,p...",rt,81.0,2009,,ei,hyvä,Kolme huonetta,23.65114581110794,61.50841093498435
+Olkahinen,"2h,k,s,n piha",rt,37.0,1990,1/1,ei,,Kaksi huonetta,23.94545396796561,61.52915504809448
+Niemenranta,2h+k+s+lasitett...,kt,46.0,2017,2/4,on,hyvä,Kaksi huonetta,23.694797177041,61.52076381913997
+Olkahinen,"4h,k,kph,s,khh,...",ok,114.0,1988,,ei,hyvä,Neljä huonetta tai enemmän,23.94003750163124,61.52552596462112
+Hervantajärvi,"1h, kt",kt,27.0,2023,5/6,on,,Yksiö,23.86859177093335,61.43935740418184
+Viinikka,1h+kk+kph+alkovi,kt,33.0,1950,2/2,ei,tyyd.,Kaksi huonetta,23.783841347339397,61.48608966102268
+Härmälänranta,3h+kt+s+kph+vh+...,kt,57.0,2022,5/8,on,hyvä,Kolme huonetta,23.72765515612894,61.47547380992136
+Hervanta,"2h, kk, kph, p",kt,52.0,1980,1/5,on,hyvä,Kaksi huonetta,23.85312134249963,61.44894607483229
+Hakametsä,3h+k+khh/kph/s+...,rt,74.0,1992,1/1,ei,hyvä,Kolme huonetta,23.82968018564644,61.48551861402181
+Lentävänniemi,"1h, tupak, kph,...",kt,39.0,2005,4/5,on,hyvä,Yksiö,23.706410737497023,61.53380385108159
+Ristimäki,4h+k+kph+vh+ pa...,kt,79.0,1967,1/3,ei,,Neljä huonetta tai enemmän,23.64518991972538,61.50797919257577
+Irjala,"3h, k, vh, kph,...",kt,74.0,1981,1/3,ei,hyvä,Kolme huonetta,23.85203690443708,61.49535414240052
+Tampella,"1h,tk,kph,et,las.p",kt,30.0,2016,5/8,on,,Yksiö,23.76789709189076,61.50540176341279
+Tesoma,"3h, k, kph, par...",kt,65.5,1967,1/3,ei,tyyd.,Kolme huonetta,23.613050047846944,61.50522644681168
+Tesoma,"2h,kk",kt,48.0,1966,4/7,on,,Kaksi huonetta,23.61604088202837,61.50380080674538
+Leinola,"oh, k, 3mh, kph...",ok,156.0,1984,1/1,ei,tyyd.,Neljä huonetta tai enemmän,23.91504506489803,61.49098716446122
+Keskusta,"3h-4h, k, kph, ...",kt,84.5,1974,7/7,on,hyvä,Kolme huonetta,24.067304561941,61.46203495725833
+Keskusta,"1h,kt,kph+ransk.p",kt,25.5,2020,6/6,on,hyvä,Yksiö,24.06959212178391,61.46557372647802
+Keskusta,"2h,kt,kh",kt,50.0,1908,6/6,on,hyvä,Kaksi huonetta,24.070224062577765,61.46595278380772
+Koivistonkylä,"3h,k,kph/wc,vh,...",kt,76.0,1970,2/3,ei,,Kolme huonetta,23.792701243141856,61.474726875310935
+Tammela,5h+k+kh+wc+vh+ ...,kt,106.0,1975,2/7,on,tyyd.,Neljä huonetta tai enemmän,23.7806054838988,61.50136930603552
+Peltolammi,"3h, k, erill. w...",kt,67.5,1991,2/3,ei,hyvä,Kolme huonetta,23.756087596826927,61.45417097791698
+Messukylä,"2h, kt, kph/wc,...",kt,42.0,2020,5/5,on,hyvä,Kaksi huonetta,23.850031891832447,61.48611911799076
+Annala,"4h, k, kph/s, w...",rt,94.0,1982,-1/2,ei,hyvä,Neljä huonetta tai enemmän,23.89560235159064,61.46847583495765
+Hervanta,"2h, kt, kph, la...",kt,38.5,2019,4/8,on,hyvä,Kaksi huonetta,23.85329369142677,61.45197916768423
+Kaleva,1h+kt+kph+lasit...,kt,27.0,2022,2/13,ei,hyvä,Yksiö,23.810592858175195,61.49808912556644
+Vuores,"4-5h, kt, 2x kp...",rt,110.0,2022,1/3,ei,hyvä,Neljä huonetta tai enemmän,23.80820496492974,61.43444752949348
+Hervantajärvi,"2h, kt",kt,37.0,2022,3/4,on,,Kaksi huonetta,23.874185274380626,61.43677666755098
+Niemenranta,"1h, kt, kph, pa...",kt,24.5,2017,2/2,ei,hyvä,Yksiö,23.69342857526945,61.52318185124448
+Pispala,"3h, parvi/mh (...",rt,99.0,1905,2/2,ei,hyvä,Kolme huonetta,23.71280373653629,61.50672819880148
+Muotiala,"3h, k, s, ph/wc...",kt,66.5,2006,1/4,on,hyvä,Kolme huonetta,23.819806849518155,61.47599663306295
+Tesoma,3h+k,kt,75.0,1974,3/3,ei,hyvä,Kolme huonetta,23.614196134893227,61.505872906809714
+Korkinmäki,"2h, k, kph / s,...",rt,49.0,1989,,ei,hyvä,Kaksi huonetta,23.83164630811813,61.4691002488028
+Kaleva,1h+kt+kph+lasit...,kt,23.5,2022,4/13,ei,hyvä,Yksiö,23.80778550010956,61.49943386146608
+Hervantajärvi,"2h, kt",kt,32.0,2023,1/6,on,,Kaksi huonetta,23.873275638876645,61.4361758865358
+Niemenranta,"3h, k, s",rt,74.0,2023,1/2,ei,,Kolme huonetta,23.693450717952963,61.524464640258
+Annala,"2h,k,s,parv.",kt,45.0,1994,3/4,on,,Kaksi huonetta,23.89865066752344,61.46868534022673
+Hervantajärvi,1H+KT,kt,29.5,2023,2/5,on,hyvä,Yksiö,23.87011909078987,61.43904904561673
+Kaukajärvi,"2h, k",kt,55.5,1971,1/7,on,hyvä,Kaksi huonetta,23.90347686168393,61.47483087477512
+Amuri,"2h, k, kph, wc",kt,51.0,1939,2/7,on,hyvä,Kaksi huonetta,23.73847908431399,61.501967370429874
+Pyynikki,"1h, kk",kt,25.4,1941,1/6,on,huono,Yksiö,23.72498958067404,61.49470975692646
+Hervanta,4h+k+s,kt,93.0,1980,1/6,on,huono,Neljä huonetta tai enemmän,23.85037521400822,61.45021324847335
+Lentävänniemi,2h+k+p,kt,34.5,2018,2/6,on,hyvä,Kaksi huonetta,23.702813665033908,61.5324172372197
+Ikuri,"4h, k, s",rt,96.0,1980,1/1,ei,hyvä,Neljä huonetta tai enemmän,23.59506126687728,61.514084516780336
+Hervanta,"3h, k, kph, las...",kt,77.0,1978,4/5,on,hyvä,Kolme huonetta,23.85411223262604,61.44970522154518
+Vuores,"3h, kt, s",rt,64.0,2023,1/1,ei,,Kolme huonetta,23.81060098006728,61.437638801535854
+Olkahinen,"3h, k, kph, s, ...",rt,62.5,1992,1/1,ei,hyvä,Kolme huonetta,23.945130038105056,61.52685895912265
+Kaakinmaa,3h+k+vh,kt,69.0,1958,3/6,on,,Neljä huonetta tai enemmän,23.74874023575259,61.49317606234091
+Turtola,3h+k+erill.wc+k...,rt,69.0,2011,1/2,ei,,Kolme huonetta,23.841882182876965,61.47703621914786
+Nekala,"1h,k,kph",kt,35.0,1940,2/2,ei,hyvä,Yksiö,23.79488596986852,61.48591057392162
+Tammela,2h+kt,kt,44.5,2016,4/8,on,hyvä,Kaksi huonetta,23.77527595781021,61.501648752726986
+Hämeenpuisto,2h+kk,kt,38.0,1962,5/8,on,tyyd.,Kaksi huonetta,23.75320446285512,61.49293994744514
+Ratina,1h+k,kt,38.0,2011,5/5,on,,Yksiö,23.76683187858924,61.49190227781299
+Hatanpää,"2h, keittiö...",kt,51.5,2000,1/5,on,hyvä,Kaksi huonetta,23.75546891955927,61.4824178927797
+Härmälä,"Mh, oh, keitti&...",kt,65.0,1938,1/2,ei,hyvä,Kaksi huonetta,23.73747139867232,61.46926972799329
+Viiala,"2h, k, kph, s, ...",kt,64.5,1986,-1/3,ei,hyvä,Kaksi huonetta,23.85428617485697,61.47229965805828
+Pyynikki,3H+KT+KATTOTERASSI,kt,86.0,2022,4/4,on,hyvä,Kolme huonetta,23.726106748086845,61.49479693199284
+Hyhky,"1h, k, alk, kph...",kt,35.0,1986,1/2,ei,,Yksiö,23.68639830883708,61.50180072409347
+Pyynikki,"2h, k, et, kph,...",kt,57.0,1921,-1/2,ei,tyyd.,Kaksi huonetta,23.729936097239428,61.50052411918238
+Hervantajärvi,"2h, kt",kt,38.0,2022,2/4,on,,Kaksi huonetta,23.872518852910485,61.43700923466148
+Rahola,"4h,k,kph,s,2wc,...",ok,117.0,1957,,ei,tyyd.,Neljä huonetta tai enemmän,23.63208660499332,61.49663915725342
+Lentävänniemi,"2h, k, s",rt,61.0,1978,1/1,ei,hyvä,Kaksi huonetta,23.705363695769293,61.53110391572994
+Kaukajärvi,"3h, k, s, kph, ...",rt,87.0,2003,1/2,ei,hyvä,Kolme huonetta,23.90490258753332,61.478268186084605
+Tesoma,"1h, k, khp/wc, ...",kt,26.0,2018,6/6,on,hyvä,Yksiö,23.612678329399746,61.50716860437837
+Kalkku,"3h, k, s, kph, ...",kt,56.0,1987,1/2,ei,hyvä,Kolme huonetta,23.58802731108452,61.49342797454117
+Hämeenpuisto,"2h, kk, parveke...",kt,46.0,1957,2/8,on,hyvä,Kaksi huonetta,23.75169994126922,61.49373258273641
+Hervantajärvi,"3h, k, s",kt,66.0,2023,4/6,on,,Kolme huonetta,23.86939824331968,61.43740985422914
+Hervanta,"1h, kk, kph / wc",kt,32.0,1974,5/7,on,tyyd.,Yksiö,23.85301556798353,61.44754867490844
+Pyynikki,3h+k+s+kh+wc+p,kt,80.5,2000,1/6,on,hyvä,Kolme huonetta,23.72468053395604,61.49434314049074
+Kohmankaari,"4h, k, wc, kph,...",kt,80.5,1967,3/3,ei,hyvä,Neljä huonetta tai enemmän,23.636700609967864,61.503591889894494
+Rahola,"3h, k, kph/wc, ...",kt,69.5,1966,1/3,on,hyvä,Kolme huonetta,23.630529954496197,61.50159565368276
+Kaleva,3h+k+2xWc+vh+la...,kt,64.0,2020,7/9,on,hyvä,Kolme huonetta,23.80543537147077,61.49783327113138
+Villilä,"2h, k, s",rt,65.0,1985,1/1,ei,,Kaksi huonetta,23.614477129915805,61.49479612759169
+Rahola,2h+k+kph+vh+las...,kt,57.0,1964,3/3,ei,tyyd.,Kaksi huonetta,23.634894307933525,61.499042472474464
+Amuri,"2h, k",kt,58.0,1969,5/6,on,,Kaksi huonetta,23.742484826834165,61.50335182635775
+Ryydynpohja,"4h, k, takkah, ...",rt,114.0,1980,1/1,ei,hyvä,Neljä huonetta tai enemmän,23.65441242455262,61.52742845766571
