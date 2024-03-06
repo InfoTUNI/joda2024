@@ -8,3 +8,4 @@ demo/tweet_classifier/venv/
 demo/association_rule_mining/.venv/
 lectures/lecture07/data/hourly_taxi_data.npz
 demo/scraper/.venv/
+lectures/lecture01/data/Mall_Customers.csv
