@@ -9,3 +9,4 @@ demo/association_rule_mining/.venv/
 lectures/lecture07/data/hourly_taxi_data.npz
 demo/scraper/.venv/
 lectures/lecture01/data/Mall_Customers.csv
+assignment/4.2-data-transformation/test_run.ipynb
